@@ -17,3 +17,6 @@ git 	rebase
 	commit
 	clone
 	tag
+
+
+Привет ты затянул изменения
