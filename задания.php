@@ -126,7 +126,8 @@ $spisok = array(
    'roz6' => array('id'=>'6', 'age'=>'16', 'gender'=>'g', 'login'=>'Nadi'),
    'roz7' => array('id'=>'7', 'age'=>'13', 'gender'=>'g', 'login'=>'Evgenia'),
    'roz8' => array('id'=>'8', 'age'=>'18', 'gender'=>'m', 'login'=>'Sveta'),
-   'roz9' => array('id'=>'9', 'age'=>'11', 'gender'=>'g', 'login'=>'Julia'),
+   'roz8' => array('id'=>'9', 'age'=>'29', 'gender'=>'m', 'login'=>'Dimon'),
+   'roz9' => array('id'=>'10', 'age'=>'11', 'gender'=>'g', 'login'=>'Julia'),
 );
 /**Цикл foreach оперирует не исходным массивом, а его копией. Это означает, что любые изменения, которые вносятся в массив,
 *не могут быть "видны" из тела цикла. Что позволяет, например, в качестве массива использовать не только переменную,
